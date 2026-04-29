@@ -22,10 +22,3 @@ An automated, event-driven background daemon that monitors application logs, tri
 * Python 3.9+
 * API Keys for Google Gemini, Groq (Optional), and OpenAI (Optional)
 * A Gmail account with an "App Password" generated for SMTP delivery.
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YourUsername/enterprise-llm-error-monitor.git](https://github.com/YourUsername/enterprise-llm-error-monitor.git)
-   cd enterprise-llm-error-monitor
