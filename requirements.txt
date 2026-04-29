@@ -1,0 +1,22 @@
+# Data Processing (Excel)
+pandas
+openpyxl
+
+# Environment Variables Management
+python-dotenv
+
+# LLM Providers (The 3-Tier Fallback Strategy)
+google-genai
+groq
+openai
+
+# Real-Time Background File Monitoring
+watchdog
+
+# Webhook API Server & Data Validation
+fastapi
+uvicorn
+pydantic
+
+# HTTP Requests (For the test_sender.py script)
+requests
